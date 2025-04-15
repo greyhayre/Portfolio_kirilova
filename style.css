@@ -1,0 +1,75 @@
+footer{
+    background-color: #432369;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    display: block;
+    width: 100%;
+}
+
+.anotate{
+    color: gray;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    width: 350px;
+}
+header img{
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+}
+header{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+razdel{
+    color: white;
+    background-color: #A75EFF;
+    text-align: center;
+    padding: 15px;
+    font-style: italic;
+    font-size: 30px;
+    display: block;
+    width: 100%;
+    
+}
+main div{
+    display: flex;
+    justify-content: space-between;
+}
+.block1{
+    background-color: #A75EFF;
+    margin: 10px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+    height: auto;
+}
+.block1 img{
+    width: 100px;
+    height: auto;
+}
+h2{
+    border: solid 1px black;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.block2{
+    background-color: #A75EFF;
+    margin: 10px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    width: 90%;
+    height: auto;
+    margin-bottom: 5%;
+}
+.block2 img{
+    width: 100%;
+    height: auto;
+}
